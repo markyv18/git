@@ -1,3 +1,3 @@
-def method_name
+name = ARGV.first || "World"
 
-end
+puts "Hello, #{name}!"
