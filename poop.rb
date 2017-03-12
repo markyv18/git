@@ -3,3 +3,4 @@ def hello
 end
 
 i changed this
+i changed another thing
